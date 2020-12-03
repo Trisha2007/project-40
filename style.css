@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #ec39cf );
+  animation: gradient 15s ease infinite;
+}
+
+  canvas{
+    display:block;
+  }
+  
+  
+  
+
